@@ -1,0 +1,94 @@
+{
+  "minecraft": {
+    "version": "1.16.5",
+    "modLoaders": [
+      {
+        "id": "fabric-0.14.6",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "HAS Client",
+  "version": "1.16.5",
+  "author": "Darkblade360350",
+  "files": [
+    {
+      "projectID": 306612,
+      "fileID": 3516413,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 3488820,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 3344974,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 3479748,
+      "required": true
+    },
+    {
+      "projectID": 372124,
+      "fileID": 3537800,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 3770302,
+      "required": true
+    },
+    {
+      "projectID": 428912,
+      "fileID": 3200819,
+      "required": true
+    },
+    {
+      "projectID": 393442,
+      "fileID": 3172563,
+      "required": true
+    },
+    {
+      "projectID": 335493,
+      "fileID": 3302730,
+      "required": true
+    },
+    {
+      "projectID": 472772,
+      "fileID": 3320941,
+      "required": true
+    },
+    {
+      "projectID": 459857,
+      "fileID": 3485637,
+      "required": true
+    },
+    {
+      "projectID": 354047,
+      "fileID": 3048200,
+      "required": true
+    },
+    {
+      "projectID": 415758,
+      "fileID": 3248104,
+      "required": true
+    },
+    {
+      "projectID": 459496,
+      "fileID": 3484850,
+      "required": true
+    },
+    {
+      "projectID": 263466,
+      "fileID": 3804468,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
